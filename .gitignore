@@ -1,0 +1,5 @@
+*.html
+.DS_Store
+registration.token
+api_credentials.json
+*.pem
