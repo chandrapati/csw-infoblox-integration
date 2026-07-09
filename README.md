@@ -110,7 +110,7 @@ The official Cisco Secure Workload channel walks through the integration:
 
 ---
 
-## Related Cisco Secure Workload Resources
+## CSW Integration Guides & Resources
 
 | Repository | Description | Best for |
 |------------|-------------|---------|
