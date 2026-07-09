@@ -1,5 +1,7 @@
 # Cisco Secure Workload → Infoblox Integration Guide
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chandrapati.csw-infoblox-integration&left_text=visitors)
+
 A step-by-step integration guide for enriching Cisco Secure Workload (CSW) inventory with **Infoblox IPAM/DNS metadata** via the **Infoblox External Orchestrator**. Imported Infoblox *extensible attributes* become Secure Workload **labels** you can use for scopes and micro-segmentation policies.
 
 [![Cisco Secure Workload](https://img.shields.io/badge/Cisco-Secure%20Workload-00205B?logo=cisco&logoColor=white)](https://www.cisco.com/go/secureworkload)
