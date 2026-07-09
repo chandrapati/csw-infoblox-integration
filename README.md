@@ -86,6 +86,8 @@ The official Cisco Secure Workload channel walks through the integration:
 | [`CSW-Infoblox-Integration-Guide.html`](CSW-Infoblox-Integration-Guide.html) | Styled HTML — open in browser for best experience (includes embedded YouTube player) |
 | [`csw-infoblox-architecture.png`](csw-infoblox-architecture.png) | Architecture diagram |
 | [`build.sh`](build.sh) | Regenerate HTML/PDF from Markdown (requires pandoc + Chrome) |
+| [`docs/CUSTOMER-HANDOFF.md`](docs/CUSTOMER-HANDOFF.md) | Checklist to hand to the customer's Infoblox / IPAM / DNS team |
+| [`docs/00-official-references.md`](docs/00-official-references.md) | Curated Cisco + Infoblox reference links |
 
 ---
 
